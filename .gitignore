@@ -2,3 +2,7 @@
 /public/build/
 
 .DS_Store
+.vercel
+
+deployment-url.txt
+deployment-prod-url.txt
